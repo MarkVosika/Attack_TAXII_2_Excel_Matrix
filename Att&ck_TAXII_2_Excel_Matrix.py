@@ -99,6 +99,7 @@ def parse_json(platform):
 		cell.font = bold_font
 		cell.alignment = wrap_text
 	
+	#This part is how the Excel columns are built, incrementing character and count
 	column = '@'
 
 	for lst in list_of_lists:
