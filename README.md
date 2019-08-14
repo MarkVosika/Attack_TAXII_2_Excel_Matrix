@@ -4,3 +4,5 @@ A python script that takes in the Mitre TAXII feed and recreates the Enterprise 
 The script uses a list of lists that is generated based on the number categories present, then referenced by index when called.  This makes it a bit future proof as new content is added. 
 
 Many thanks to the python community for all the online tutorials, whose code has been borrowed/modified to make this possible.
+
+![alt text](example_output.png "example Excel output")
